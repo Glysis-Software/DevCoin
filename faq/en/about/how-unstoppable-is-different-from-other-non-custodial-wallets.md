@@ -2,8 +2,8 @@
 
 The wallet app has been a work in progress since late 2017, and counts over 100,000 engineering hours!
 
-- [https://github.com/horizontalsystems/unstoppable-wallet-ios](https://github.com/horizontalsystems/unstoppable-wallet-ios)
-- [https://github.com/horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android)
+- [https://github.com/glysis-software/devwallet-wallet-ios](https://github.com/glysis-software/devwallet-wallet-ios)
+- [https://github.com/glysis-software/devwallet-wallet-android](https://github.com/glysis-software/devwallet-wallet-android)
 
 It's the most sophisticated non-custodial wallet app to date that goes beyond non-custodial storage capabilities, and takes a comprehensive approach towards privacy, decentralization and usability.
 

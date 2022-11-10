@@ -1,4 +1,4 @@
-# What happens if unstoppable app goes down?
+# What happens if devwallet app goes down?
 
 For the most part, an wallet app doesn't depend on any centrally managed servers that may result in the wallet app being unable to function that it should. The app should continue to function for as long as there is internet.
 

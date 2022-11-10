@@ -1,4 +1,4 @@
-# How unstoppable wallet works?
+# How devwallet wallet works?
 
 engineered to work outside the traditional finance layer and acts as a Swiss knife to the world of cryptocurrencies and decentralized finance ecosystem.
 

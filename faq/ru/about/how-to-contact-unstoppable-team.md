@@ -1,11 +1,11 @@
 # How to contact Team
 
-To reach out please use support.unstoppable@protonmail.com or one of the following channels:
+To reach out please use support.devwallet@protonmail.com or one of the following channels:
 
-- Reddit: https://www.reddit.com/r/UNSTOPPABLEWallet/
-- Twitter: https://twitter.com/unstoppablebyhs?lang=en
-- Github: https://github.com/horizontalsystems
-- Telegram (Channel) : https://t.me/unstoppable_announcements
+- Reddit: https://www.reddit.com/r/DevWallet/
+- Twitter: https://twitter.com/devwallet?lang=en
+- Github: https://github.com/glysis-software
+- Telegram (Channel) : https://t.me/devWallet
 
 Do not trust anyone communicating outside official channels. There are a number of fake groups and channels impersonating the team on Telegram and Twitter. Unfortunately, there is no easy way to locate, report and take down these groups.
 

@@ -8,12 +8,12 @@ App Store
 
 Google Play Market
 
-[https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet](https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet)
+[https://play.google.com/store/apps/details?id=io.glysis-software.bankwallet](https://play.google.com/store/apps/details?id=io.glysis-software.bankwallet)
 
 Github
 
-[https://github.com/horizontalsystems/unstoppable-wallet-android/releases](https://github.com/horizontalsystems/unstoppable-wallet-android/releases)
+[https://github.com/glysis-software/devwallet-wallet-android/releases](https://github.com/glysis-software/devwallet-wallet-android/releases)
 
 Fdroid
 
-[https://f-droid.org/en/packages/io.horizontalsystems.bankwallet/](https://f-droid.org/en/packages/io.horizontalsystems.bankwallet/)
+[https://f-droid.org/en/packages/io.glysis-software.bankwallet/](https://f-droid.org/en/packages/io.glysis-software.bankwallet/)
